@@ -1,4 +1,3 @@
-# crud-app
 # 🧑‍💻 Flask User Management API
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=yellow)
