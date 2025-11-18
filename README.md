@@ -47,5 +47,5 @@ Add authentication and authorization.
     "id": 1,
     "name": "Niharikaa Singh",
     "email": "niharikaa21@gmail.com"
-}'''
+}
 
